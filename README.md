@@ -1,4 +1,4 @@
-![Pytorch_logo](/Users/nathanamar/Desktop/Pytorch_ComputerVision/Pytorch_logo.png)
+![Pytorch_logo](https://github.com/Nath19/Pytorch_ComputerVision/blob/master/Pytorch_logo.png)
 
 
 
